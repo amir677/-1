@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+ 
+      <title>index.html</title>
+      
+  </head>S
+
+  <body>
+      <h1 style="margin:0 50% 0 50%">mytest</h1>
+      <h2 align="center">سایت آموزشی فری لرن</h2>
+      <center>
+      <p>Lorem ipsum dolor sit <strong> consectetur, adipisicing elit</strong>.<br>
+      Necessitatibus architecto perfere>ndis reprehenderit consectetur <br>
+      quod velit excepturi. Nisi sit tempora consectetur dolores alias incidunt <br>
+      expedita ipsam amet. Sunt omnis delectus in.
+      </p></center>
+
+      <p style="width: 400px;margin: 10px 50% 5px 50%">Lorem ipsum dolor sit <strong> consectetur, adipisicing elit</strong>.<br>
+      Necessitatibus architecto perfere>ndis reprehenderit consectetur <br>
+      quod velit excepturi. Nisi sit tempora consectetur dolores alias incidunt <br>
+      expedita ipsam amet. Sunt omnis delectus in.</p>
+      <p style="width: 400px;margin: 0 auto">Lorem ipsum dolor sit <strong> consectetur, adipisicing elit</strong>.<br>
+      Necessitatibus architecto perfere>ndis reprehenderit consectetur <br>
+      quod velit excepturi. Nisi sit tempora consectetur dolores alias incidunt <br>
+      expedita ipsam amet. Sunt omnis delectus in.</p>
+      <hr>
+      <div class="row">
+      <div class="column" align="left"><a href="./فایل 2/index2.html" target="_blank" align="left">ورود به فایل 2
+        <img src="oyazlogo larg.png" alt="oyazlogo larg" width="200px" height="200px" ALIGN="left"></a></div>
+      <div class="column" align="center"><p>متن تستی 2</p></div>
+      <div class="column" align="right"><p><img src="amir.jpg" width="200" height="200" align="right"></p></div>
+      
+       </div>
+
+     <hr
+      <!-- 
+
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+     
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+
+        <img src="amir.jpg" width="200" height="200" align="right">
+
+      &nbsp;
+      &nbsp;
+      &nbsp;
+ 
+      <hr>
+
+
+
+
+      <br>
+       <br>
+
+      <br><a href="کتاب/21813900407.pdf" target="_blank">pdf</a>
+     <br>
+     <br>
+     <br>
+     <hr>
+      <img src="oyazlogo small.png"  style="float:right">
+
+      <img src="oyazlogo2 small.jpg" style="float:left">
+
+      <hr>  -->
+
+      <!--
+       <table>
+      <td>
+      <img src="https://codebazan.ir/test1.jpg"/>
+      <td>
+      <img src="https://codebazan.ir/test1.jpg"/>
+      <td>
+      <img src="https://codebazan.ir/test1.jpg"/>
+      <td>
+      <img src="https://codebazan.ir/test1.jpg"/>
+      <td>
+      </td>
+      </td>
+      </td>
+      </table>
+
+      -->
+      <hr>
+
+      <!--
+     &nbsp;
+      &nbsp;
+       &nbsp;
+      &nbsp;
+       <div class="row">
+      <div class="column">متن 1</div>
+      <div class="column"> متن 2</div>
+      <div class="column">متن 3</div>
+      </div>
+     <hr>
+     <img src="amir.jpg" width="200" height="200" align="left">
+      <hr>
+
+        -->
+
+        <div class="row">
+            <div class="column" align="left">
+                <table style="width: 30%" align="left">
+                    <tr>
+                          <th>سرستون1 تیبل اول</th>
+                          <th>سرستون2 تیبل اول</th>
+                          <th>سرستون3 تیبل اول</th>
+                   </tr>
+                   <tr>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>3</td>
+                  </tr>
+                  <tr>
+                         <td>4</td>
+                         <td>5</td>
+                         <td>6</td>
+                  </tr>
+             </table>
+            </div>
+
+                 <div class="column" align="center">
+                       <table style="width: 30%" align="center">
+                           <tr>
+                               <th>سرستون1 تیبل دوم</th>
+                               <th>سرستون2 تیبل دوم</th>
+                               <th>سرستون3 تیبل دوم</th>
+                          </tr>
+                          <tr>
+                              <td>1</td>
+                              <td>2</td>
+                              <td>3</td>
+                          </tr>
+                          <tr>
+                               <td>4</td>
+                               <td>5</td>
+                                <td>6</td>
+                           </tr>
+                     </table>
+                 </div>
+                       <div class="column" align="right">
+                           <table style="width: 30%" align="right">
+                               <tr>
+                                   <th>سرستون1 تیبل سوم</th>
+                                   <th>سرستون2 تیبل سوم</th>
+                                   <th>سرستون3 تیبل سوم</th>
+                              </tr>
+                               <tr>
+                                    <td>1</td>
+                                    <td>2</td>
+                                    <td>3</td>
+                              </tr>
+                               <tr>
+                                    <td>4</td>
+                                   <td>5</td>
+                                   <td>6</td>
+                              </tr>
+                         </table>
+                </div>
+    </div>
+
+
+
+
+ </body>
+
+
+</html>     
